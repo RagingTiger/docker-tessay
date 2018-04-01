@@ -1,0 +1,3 @@
+[submodule "TEssay"]
+	path = TEssay
+	url = https://github.com/RagingTiger/TEssay.git
